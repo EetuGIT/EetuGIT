@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="center">📚 I'm currently learning the basics of programming.<br>🎯 Goals: to learn well and enjoy the process.<br>💬 Languages: English And Finnish.<br>💻 Operating system: Arch Linux.</p>
+<p data-importer="text" align="center">📚 I'm currently learning the basics of programming.<br>🎯 Goals: to learn well and not die of boredom.<br>💬 Languages: English And Finnish.<br>💻 Operating system: Arch Linux.</p>
 
 ###
 
